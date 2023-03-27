@@ -1,0 +1,9 @@
+title: My Landing Page
+description: Welcome to my landing page, built with Jekyll!
+
+baseurl:
+url: "https://your-domain.com"
+
+theme: my-landing-page-theme
+
+permalink: pretty
