@@ -1,4 +1,5 @@
 # Storage of the footer links
+# Not currently in use but keeping for future
 # This data is used by the footer.html file within _includes
 center_links:
   - name:
