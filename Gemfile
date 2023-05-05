@@ -2,9 +2,11 @@
 
 source 'https://rubygems.org'
 
-# gem 'jekyll', '3.9.3'
-gem 'jekyll', '3.8.4'
+gem 'jekyll', '3.9.3'
+# gem 'jekyll', '3.8.4'
 gem 'jekyll-sass-converter'
+# gem "kramdown", ">= 2.3.1"
+gem "kramdown-parser-gfm"
 
 group :jekyll_plugins do
   gem 'jekyll-archives', '2.1.1'
