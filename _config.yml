@@ -1,6 +1,5 @@
 # Page settings
 url: "finglis.github.io"
-# theme: my-landing-page-theme
 permalink: pretty
 
 # Page default meta data
@@ -17,14 +16,13 @@ qupath_release_latest: https://github.com/qupath/qupath/releases/latest
 qupath_documentation: https://qupath.readthedocs.io/en/stable/
 qupath_installation: https://qupath.readthedocs.io/en/stable/docs/intro/installation.html
 qupath_citation: https://qupath.readthedocs.io/en/stable/docs/intro/citing.html
-qupath_license: https://github.com/qupath/qupath/blob/main/LICENSE.txt
+qupath_license: https://github.com/qupath/qupath/blob/main/LICENSE
 qupath_forum: https://forum.image.sc/tag/qupath
 qupath_twitter: https://twitter.com/qupath
 qupath_youtube: https://www.youtube.com/c/qupath
-# Download links parts - see index.md for compilation
+
 # Not currently required
 # repository: qupath/qupath.github.io
-# baseurl:
 
 #tbc
 collections:
